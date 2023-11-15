@@ -2,6 +2,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 
+//passing the props
 const Player = ({ name, team, nationality, jerseyNumber, age, imageURL }) => {
   return (
     <Card className="player-card" style={{ width: "18rem" }}>

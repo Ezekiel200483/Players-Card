@@ -4,7 +4,7 @@ import yamalImage from './yamal.jpeg'
 import judeImage from './jude.jpeg'
 
 
-
+//Information of each Players
 
 const players = [
   {

@@ -1,7 +1,8 @@
 
 import React from "react";
 import Player from "./player.js";
-import players from "./Players.js"; // Import the players array from players.js
+import players from "./Players.js";
+ // Import the players array from players.js
 
 const PlayersList = () => {
   return (
